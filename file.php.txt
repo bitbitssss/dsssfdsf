@@ -1,0 +1,268 @@
+<section id="reviews" aria-labelledby="reviews-title" class="pb-16 pt-20 sm:pb-24 sm:pt-32">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        <h2 class="text-3xl font-medium tracking-tight text-gray-400 sm:text-center">Everyone is changing their
+            life with BitCheats.</h2>
+        <p class="mt-2 text-lg text-gray-300 sm:text-center">Thousands of people have played their games how
+            they want.</p>
+        <div
+            class="relative -mx-4 mt-16 grid h-[49rem] max-h-[150vh] grid-cols-1 items-start gap-8 overflow-hidden px-4 sm:mt-20 md:grid-cols-2 lg:grid-cols-3">
+            <div class="animate-marquee space-y-8 py-4" style="--marquee-duration: 21520ms;">
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="false" style="animation-delay: 0.2s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">BitCheats is good af</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">hsu</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="false" style="animation-delay: 0.4s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">this product made my life easier. Since I've
+                            purchased it, haven't been banned single time on Rust. Support is top notch, had
+                            slight issue and man himself solved it for me instantly &lt;3 </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Eyas</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="false" style="animation-delay: 0.3s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">GOOD</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Bahsidee</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="false" style="animation-delay: 0.5s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">It’s a very good and cheap cheat. </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">arsonalsos</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="false" style="animation-delay: 0s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Amazing Cheat,good Perfomance,good and stable Features.The Silent aim is the Best silent aim I have ever used In Rust.
+                            Its the most og and known cheat in Rust. Just Amazing!</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">EcoG</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Love it, been winning alot of games with it and not been banned in Wazrone 2!! +reppp</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">stolPet</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Aimbot is very smooth, and I like the menu design and they have 6 languages supported. I haven’t tested out every feature but I would reccomend this, you won’t regret it. </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">BossArt</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0.5s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Very nice product, well known cheat.</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Rcords</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0.3s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">BitCheats is easily and the best cheat I have
+                            ever used.</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Blood_7728</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0.1s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">great product</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">primegeek</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0.3s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">first time buying! heard nothing but good things
+                            about this cheat though</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Rsesang</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0.5s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">The chair is all about legit cheating, which I really appreciate, there is even a tutorial for new users on how to closet cheat, which is also appreciable! </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">OGvoid</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="false" style="animation-delay: 0s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">have to say the best support ive ever seen on a chair and ud af !!! </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">BIGAS</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="true" style="animation-delay: 0.1s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">BitCheats is good af</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">RAX</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="true" style="animation-delay: 0.4s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">this product made my life easier. Since I've
+                            purchased it, haven't been banned single time on Rust. Support is top notch, had
+                            slight issue and man himself solved it for me instantly &lt;3 </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">RombaCon</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="true" style="animation-delay: 0.2s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Best Fortnite Cheat i ever used i my life , Ui , animation , cheat features quality , even he support 6 languages love yall BitCheats Team</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">AritraSardar</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="true" style="animation-delay: 0.2s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">BitCheats offers probably the best cheat on the market right now.
+                            it offers a nice and easy injection & a clean looking menu and esp, very good for legit players. buy buy buy </p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">rokes</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5"
+                    aria-hidden="true" style="animation-delay: 0.5s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Tried out the cheat must say that the aimbot is very accurate and the esp is clean and simple</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">coran</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">This is the best I have used.</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">oilyboily</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.2s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Bought it under 10 minutes and its great, love the esp and aimbot works great. reliable cheat.</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Butter</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.1s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Great cheat, aimbot is perfect and no bans for me yet.
+                            Definitely recommend.</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Tomcomm</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.3s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">+rep
+                            Fast support. it is very good and also the installation is very fast and easy just recommend it</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">MaxxxCoder</figcaption>
+                </figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.5s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">great product</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">deprimere</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.2s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">+vouch d it is really good legit cheat for fortnite i will probaly buy again and i have gotten no ban so far and i am not looking really legit</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">SaltyTapsse</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.4s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">best cheese for mw2, insane ++rep</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">DesignGFW</figcaption>
+                </figure>
+                <figure
+                    class="animate-fade-in rounded-3xl bg-[#17191F] p-6 opacity-0 shadow-md border border-gray-700 shadow-gray-900/5 md:hidden lg:hidden"
+                    aria-hidden="true" style="animation-delay: 0.4s;">
+                    <blockquote class="text-gray-200">
+                       
+                        <p class="mt-3 text-base leading-7">Very good cheat , lasted weeks unbanned in fortnite arena and tournys</p>
+                    </blockquote>
+                    <figcaption class="mt-3 text-sm text-gray-400 before:content-['–_']">Golang</figcaption>
+                </figure>
+            </div>
+            
+            <div class="pointer-events-none absolute inset-x-0 top-0 h-32 bg-gradient-to-b from-[#0D1117]">
+            </div>
+            <div class="pointer-events-none absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-[#0D1117]">
+            </div>
+        </div>
+    </div>
+</section>
